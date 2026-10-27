@@ -1,0 +1,10 @@
+FORMOSA SALVAJE 5.0 - SIN INTERNET
+
+Abri index.html en Microsoft Edge o Chrome. No necesita descargar bibliotecas ni modelos.
+
+El juego funciona completamente con teclado y botones sin internet.
+La camara usa deteccion aproximada de movimiento por diferencias de imagen; NO es reconocimiento de postura por IA ni recorte de silueta. Puede dar falsos positivos y la camara podria estar bloqueada en file://.
+
+Si la camara no funciona al abrir el HTML, usa un servidor local seguro localhost. No necesita internet pero puede requerir software adicional.
+
+Controles: W/flecha arriba avanzar, izquierda/derecha carriles, espacio recolectar, 1/2/3 responder.
